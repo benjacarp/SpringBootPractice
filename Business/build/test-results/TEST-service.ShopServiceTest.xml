@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.ShopServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-02-10T20:34:54" hostname="GLB-D1232" time="0.002">
+  <properties/>
+  <testcase name="addItemToCartTest" classname="service.ShopServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
