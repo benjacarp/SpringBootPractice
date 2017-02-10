@@ -9,7 +9,7 @@ import persistence.Repo;
 
 import static org.junit.Assert.assertEquals;
 
-public class BusinessTest {
+public class UserTest {
 
     private UserService userService;
 
